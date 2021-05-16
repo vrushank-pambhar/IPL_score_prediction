@@ -6,7 +6,7 @@ In this project i have used IPL data set which i get from kaggle . I use many al
 • This repository consists of files required to deploy a ___Machine Learning Web App___ created with ___Flask___ 
 
 • If you are searching for __Code__, __Algorithms used__ and __Accuracy__ of the model.. you won't find it here. Click the link mentioned below for the same:<br />
-Link:
+Link:https://github.com/vrushank-pambhar/IPL_score_prediction.git
 
 • Please do ⭐ the repository, if it helped you in anyway.
 
