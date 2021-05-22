@@ -1,6 +1,5 @@
 # Importing essential libraries
 from flask import Flask, render_template, request
-from flask_cors import cross_origin
 import pickle
 import pandas as pd
 import numpy as np
@@ -16,7 +15,6 @@ def home():
 	return render_template('index.html')
 
 @app.route('/predict', methods=['GET','POST'])
-@cross_origin()
 def predict():
     temp_array = list()
     
